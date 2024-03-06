@@ -5,8 +5,8 @@ This code should be executed in UNIX based operating systems and requires ROS No
 ## Add dependencies to CMakeLists.txt
 
 ```
-geometry_msgs.msg
-sensor_msgs.msg
+geometry_msgs
+sensor_msgs
 ```
 
 
