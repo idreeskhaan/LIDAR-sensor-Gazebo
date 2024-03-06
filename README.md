@@ -16,5 +16,5 @@ sensor_msgs
 ```
 roscore
 roslaunch turtlebot3_world.launch
-ros run <package-name> finalCode.py
+rosrun <package-name> finalCode.py
 ```
